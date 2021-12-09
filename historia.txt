@@ -4,4 +4,6 @@ Alexis Aragón tiene 23 años, nació en Colombia
 
 Hoy hablaremos de su historia
 
-Está aprendiendo a usar git
+Está aprendiendo a usar.
+
+Quiere trabajar como Tester QA.
