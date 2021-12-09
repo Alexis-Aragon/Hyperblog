@@ -1,9 +1,3 @@
 Esta es la historia de Alexis
 
-Alexis Aragón tiene 23 años, nació en Colombia
-
-Hoy hablaremos de su vida y obra maestra
-
-Está aprendiendo a usar git, porque quiere trabajar como Tester QA.
-Hasta el momento siente que va bien por tiene que tener claro que esto
-es un proceso con el que debe continuar y seguir practicando.
+Mañana nos enfocaremos en su vida laboral
