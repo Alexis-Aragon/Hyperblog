@@ -6,6 +6,8 @@ Hoy hablaremos de su historia
 
 Master 1
 
+Master 2
+ 
 Está aprendiendo a usar git, porque quiere trabajar como Tester QA.
 Hasta el momento siente que va bien por tiene que tener claro que esto
 es un proceso con el que debe continuar y seguir practicando.
